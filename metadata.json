@@ -1,0 +1,6 @@
+{
+  "name": "Simunye Skills SA",
+  "description": "Mobile-first South African practical skills simulation app for low-end smartphones. Features ultra-low data footprint, offline learning, interactive simulations, and isiZulu localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
